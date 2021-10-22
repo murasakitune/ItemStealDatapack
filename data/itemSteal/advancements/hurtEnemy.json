@@ -6,8 +6,9 @@
       }
     },
     "rewards": {
+      "function": "itemsteal:itemdrop",
       "loot": [
-        "minecraft:entities/vindicator"
+        "itemsteal:dropitems"
       ]
     }
   }
