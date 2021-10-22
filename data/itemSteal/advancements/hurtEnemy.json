@@ -1,15 +1,12 @@
 {
     "criteria": {
       "requirement": {
-        "trigger": "minecraft:player_hurt_entity",
+        "trigger": "minecraft:player_killed_entity",
         "conditions": {}
       }
     },
     "rewards": {
-      "function": "itemsteal:itemdrop",
-      "loot": [
-        "itemsteal:dropitems"
-      ]
+      "function": "itemsteal:itemdrop"
     }
   }
   
