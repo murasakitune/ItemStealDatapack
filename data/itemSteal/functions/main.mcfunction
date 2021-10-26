@@ -1,1 +1,1 @@
-execute at @e[tag=is.have] run function itemsteal:main
+execute as @a[tag=is.have] at @s run function itemsteal:reject
