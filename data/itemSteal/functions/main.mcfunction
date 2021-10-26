@@ -1,0 +1,1 @@
+execute at @e[tag=is.have] run function itemsteal:main
