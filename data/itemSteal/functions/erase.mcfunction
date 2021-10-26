@@ -1,3 +1,2 @@
-particle explosion_emitter ~ ~ ~
-playsound entity.zombie.break_wooden_door player @s ~ ~ ~
-kill @e[distance=..5,tag=!is.have]
+# playsound entity.zombie.break_wooden_door player @s ~ ~ ~
+kill @e[distance=..6,tag=!is.have]
